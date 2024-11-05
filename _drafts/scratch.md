@@ -1,10 +1,11 @@
+if statements
+loops
+
 arrays
 break statement
 continue statement
 equality operators
 functions
-if statements
-loops
 operator precedence
 pointers
 recursion
